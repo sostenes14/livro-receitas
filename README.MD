@@ -5,4 +5,5 @@
 Olá bem vindo ao livro de Receita 
 
  - Strogonoff de Frango
- - Pavê
+ - Pave
+ - Bolo de Cenora 
